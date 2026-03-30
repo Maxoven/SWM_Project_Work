@@ -1,8 +1,3 @@
-"""
-T3 New Feature: Low-Stock Alert Report
-Shows products whose quantity falls at or below a configurable threshold.
-Allows exporting the list to a text file and refreshing the view.
-"""
 from tkinter import *
 from tkinter import ttk, messagebox, filedialog
 import sqlite3
